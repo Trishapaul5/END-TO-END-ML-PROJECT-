@@ -1,0 +1,102 @@
+Country,Year,Currency,Population,GDP_Growth,GDP_Per_Capita,Inflation_Rate,Gini_Coefficient,Labor_Force,Unemployment_Rate,Main_Sectors,Foreign_Reserves
+United States,2023,Sign: $; Code: USD,11.1,2.8,7202592025.0,2.9,46.5,1.01980201819,4.2,High-technologypetroleumsteelmotor vehiclesaerospacetelecommunicationschemicalselectronicsagribusinessfood processinginformation technologyartificial intelligenceconsumer goodslumberretailhealthcarefinancial servicesminingrenewable energyquantum computingspace technologydefencebiotechnologypharmaceutical,250202431.0
+China,2023,"CNY, ¥",17.0,5.0,692025722025.0,1.0,35.7,,5.2,"High-technology, mining and ore processing, iron, steel, aluminum, and other metals, renewable energy, coal; machine building; armaments; textiles and apparel; petroleum; cement; chemicals; fertilizer; consumer products (including footwear, toys, and electronics); defence, information technology, artificial intelligence, agribusiness, food processing; transportation equipment, including automobiles, railcars and locomotives, ships, aircraft; biotechnology, pharmaceutical, telecommunications equipment, space exploration, commercial space launch vehicles, satellites",3.3202324251
+India,2023,"INR, ₹",82.0,8.2,13620251192025.0,3.34,32.8,,7.6,Textileschemicalsfood processingsteeltransportation equipmentcementminingpetroleummachinerysoftwarepharmaceuticals[34],676.26444112025
+Germany,2023,"EUR, €",20.9,0.3,172024192024.0,6.0,29.9,,5.4,High-technologyIronsteelcoalcementchemicalsmachineryvehiclesmachine toolselectronicsautomobilesfood and beveragesshipbuildingdefencetextilesinformation technologyrenewable energybiotechnologypharmaceutical,400202222.0
+Brazil,2023,"BRL, R$",24.0,3.2,782024792024.0,4.83,50.6,,7.0,Textilesshoeskitchenware petrochemicalcementlumberiron oretinsteelaircraftmotor vehicles and partsother machineryelectrical equipment,366202425.0
+Japan,2023,"JPY, ¥",16.1,1.5,342025382025.0,3.1,33.8,,2.6,"High technology
+Motor vehicles
+Electronics
+Machine tools",1.255202422
+United Kingdom,2023,"GBP, £",21.0,4.8,182025282025.0,2.8,36.5,,1.0,"List
+ Machine tools  electric power equipment  automation equipment  railway equipment  shipbuilding aircraft  motor vehicles and parts  electronics and communications equipment  metals  chemicals  coal petroleum  paper and paper products food processing  textiles  clothing  other consumer goods[7]",
+France,2023,"EUR, €",5.5,1.1,222025252025.0,5.7,29.7,,7.0,Machinerychemicalsautomobilesmetallurgyaircraftelectronicstextilesfood processingtourism,309202322.0
+Canada,2023,"CAD, C$",9.9,3.4,192024302024.0,1.6,0.281,,6.5,Transportation equipmentchemicalsmineralsfood productswood and paperfish productspetroleumnatural gas,122.920242728
+Australia,2023,AUD,13.4,2.1,112025232024.0,2.8,33.0,,4.1,"Financial and insurance servicesConstructionHealthcare and social assistanceMiningProfessional, scientific and technical services[16]Manufacturing[17]",
+Russia,2023,RUB or руб or  ₽,11.0,3.6,652024432024.0,5.9,35.1,,2.6,"Complete range of mining and extractive industries producing coal, oil, gas, chemicals, and metals; all forms of machine building from rolling mills to high-performance aircraft and space vehicles; defence industries (including radar, missile production, advanced electronic components), shipbuilding; road and rail transportation equipment; communications equipment; agricultural machinery, tractors, and construction equipment; electric power generating and transmitting equipment; medical and scientific instruments; consumer durables, textiles, foodstuffs, handicrafts",606.72024214
+South Korea,2023,"KRW, ₩",14.4,1.4,282025262024.0,2.5,35.5,,3.7,Electronicstelecommunicationsautomobile productionchemicalsshipbuildingsteel,
+Mexico,2023,"MXN, Mex$",36.3,3.2,682024762024.0,3.59,40.2,,2.5,Food processingbeersoft drinksauto partsautomobileselectronicschemicalsironsteelpetroleumminingtextilesclothingmotor vehiclesconsumer durablestourism,212.408202419
+Indonesia,2023,"IDR, Rp",1.6,5.31,,1.95,34.9,,4.82,"palm oil, coal, petroleum, petrochemicals, liquified natural gas, vehicle, electronics, transportation, machinery, steel, telecommunications, electric power, food processing, wood industry, textile, footwear, consumer goods, integrated circuits, medical equipment, optical devices, paper, handicrafts, chemicals, rubber, pharmaceuticals, financial services, seafood, smelting, and tourism",156.1202524
+Nigeria,2023,"NGN, ₦",38.9,2.2,15420221432022.0,33.2,35.1,,22.6,"cement, oil refining, construction and construction materials, food processing and food products, beverages and tobacco, textiles, apparel and footwear, pharmaceutical products, wood products, pulp paper products, chemicals, ceramic products, plastic and rubber products, electrical and electronic products, base metals: iron and steel, information technology, automobile manufacturing, and other manufacturing (2015)[16]",
+South Africa,2023,"ZAR, R",20.5,0.6,1043202410632024.0,2.7,61.8,,31.9,"mining (world's largest producer of platinum group metals, gold, chromium), automobile manufacturing, metalworking, technology, machinery, textiles, iron and steel, IT, chemicals, fertiliser, foodstuffs, manufacturing, commercial ship repair.",65.876202523
+Argentina,2023,ARS,38.9,1.7,662025682025.0,55.9,40.7,,7.7,Food processing and beveragesmotor vehicles and auto partsappliances and electronicsmachinery and equipmentchemicalspharmaceuticalsglasssteel and aluminumcementtextilestobacco productspublishingfurnitureleather,26.10202317
+Saudi Arabia,2023,,32.0,0.8,342024252024.0,1.6,45.9,,4.88,Crude oil productionpetroleum refiningpetrochemicalsammoniaindustrial gasessodium hydroxidecementfertilizerplasticsmetalsship repairaircraft repairconstruction,457.949202377
+Italy,2023,"EUR, €",9.4,3.9,262024292024.0,4.5,31.5,,6.8,tourismmachineryrobotsaircraftaerospaceelectronicsdefense systemsiron and steelchemicalsfood processingagribusinesspharmaceuticaltextilesmotor vehiclesclothingfootwearfurnitureceramicsluxury goodsfashionshipbuildingcruise shipelectric power,
+Spain,2023,"EUR, €",25.8,2.7,292025342025.0,2.2,31.2,,10.4,machineryelectronicsmedical equipmentchemicalsmotor vehiclesclothingfood processingtourismshipbuilding[21][22],1032023.23
+Turkey,2023,"TRY, ₺",14.4,5.1,632025522025.0,37.8,44.8,,8.5,Machinerytourismtextileelectronicsconstructionshipbuildingautosminingsteelironcopperborondefencepetroleumfood processingcotton,173.22025223
+Netherlands,2023,"EUR, €",5.0,0.1,102024102024.0,4.1,26.4,,2.9,"Agriculture, oil and natural gas,  metal and engineering products, electronic machinery and equipment, chemicals, petroleum, construction, microelectronics, fishing",54.0162021641
+Switzerland,2023,CHF,6.6,2.1,2202562024.0,2.4,31.1,,1.9,Machinerychemicalswatchestextilesprecision instrumentstourismbankinginsurancepharmaceuticals,1.25202373
+Sweden,2023,SEK • KR,15.0,0.2,142023182023.0,5.9,29.5,,9.0,Iron and steelprecision equipment (bearingsradiotelephone partsarmaments)pulp and paperprocessed foodsmotor vehicles,60312012.24
+Belgium,2023,"EUR, €",19.5,3.0,152024192024.0,2.3,25.1,,5.1,"engineering and metal products, motor vehicle assembly, transportation equipment, scientific instruments, processed foods and beverages, chemicals, pharmaceuticals, base metals, textiles, glass, petroleum",
+Poland,2023,"PLN, zł",11.8,2.9,442025372025.0,3.7,27.0,,2.7,machine buildingiron and steelmining coalchemicalsship buildingfood processingfurnitureglassbeveragesvideo gamestextiles,
+Thailand,2023,"THB, ฿",9.9,1.5,872025722025.0,5.02,34.9,,1.1,"Automobiles and automotive parts (11%), financial services (9%), electric appliances and components (8%), tourism (6%), cement, auto manufacturing, heavy and light industries, appliances, computers and parts, furniture, plastics, textiles and garments, agricultural processing, beverages, tobacco",262.54202418
+Malaysia,2023,"MYR, RM",6.2,3.6,662025502025.0,2.67,40.7,,2.925,"Electronics, semiconductors, microchips, integrated circuits, rubber, oleochemicals, automotive, optical devices, pharmaceuticals, medical equipment, smelting, timber, wood pulp, Islamic finance, petroleum, liquified natural gas, petrochemicals, telecommunications",119.72024
+Philippines,2023,Filipino: piso; sign: ₱; code: PHP,15.5,5.7,,1.4,40.7,,3.9,Electronics assemblyaerospace/partsagribusinessautomotive/partsIT and business process outsourcingfood processingfurniturespharmaceuticalspetrochemicalsmetal casting and miningshipbuildingtextiletourism[13][14],106.6720251921
+Vietnam,2023,VND; ₫,0.99,7.0,1182024892024.0,3.45,36.1,,3.3,"Electronics, machinery, steel, food processing, wood industry, textile, footwear, vehicle, rice, coffee, cashews, seafood, vegetable and tourism",
+Singapore,2023,SGD/S$,,2.1,4202522025.0,5.5,45.9,,1.8,"Electronics
+Financial services
+Information and communications technology
+Civil engineering
+Oil drilling and exploration
+Petroleum refining
+Chemical products
+Cosmetic products
+Biomedical products
+Scientific instruments
+Medical tourism
+Telecommunications equipment
+Rubber
+Food and beverages products
+Marine engineering and shipbuilding
+Security services
+Life sciences
+Re-exportation
+Waste management and recycling
+Arts & entertainment
+Fashion
+Design
+Small-scale agriculture and aquaculture",384.587202416
+Egypt,2023,"ISO code: EGP, abbreviation: LE",4.5,3.8,1332025872025.0,20.0,31.9,,7.7,"textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures",48.14202519
+Algeria,2023,"DZD, دج",1.5,4.2,1092024992024.0,3.8,27.6,,12.7,"petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing",85202319.0
+Morocco,2023,MAD,4.8,1.1,12520231022023.0,6.7,39.5,,16.9,"Phosphates, rock mining and processing, high tech, food processing, leather goods, textiles, construction, tourism, automobile manufacturing",33202115.0
+Kenya,2023,"KES, KSh",14.0,6.3,15020241422024.0,7.9,38.7,,2.98,"Consumer goods (plastic, furniture, batteries, textiles, clothing, soap, cigarettes, flour, confectionery), pharmaceuticals, agricultural products, horticulture, oil refining; aluminium, steel, lead; cement, commercial ship repair, tourism, information technology",
+Ethiopia,2023,"ETB, ብር",20.0,6.4,16220241612024.0,34.8,35.0,,3.5,"food processing, beverages, textiles, leather, chemicals, metals processing, cement",
+Ghana,2023,"GHS, GH₵",23.4,1.62,16320211652021.0,41.2,43.5,,3.92,"mining, lumbering, light manufacturing, aluminum smelting, food processing, cement, small commercial ship building, petroleum",
+Pakistan,2023,₨,39.8,6.2,16020241402024.0,5.1,31.6,,5.0,"Textiles
+Apparel
+Food processing
+Pharmaceuticals
+Surgical instruments
+Construction materials
+Fertilizer
+Overseas remote freelancing
+Seafood
+Luxury products
+Technology
+Paper products
+Automotive
+Telecommunication
+Marble
+Glass manufacturing
+Shipbreaking
+Ornamentations
+Banking
+Energy
+Precious minerals & metals
+Defense industry
+Media
+Education
+Tourism
+Financial services
+Human resources",15.5202531
+Bangladesh,2023,"BDT, ৳",18.7,5.82,13920241262024.0,9.17,31.8,,3.53,TextilesPharmaceutical ProductsElectronicsShipbuildingAutomotiveBicycleLeatherJuteGlassPaperPlasticFood and BeveragesCementTeaRiceNatural Gas and Crude PetroleumIron and SteelShip breaking,
+Iran,2023,"IRR,﷼",55.0,4.7,1172024932025.0,29.5,38.8,2735898720191339.0,8.9,"petroleum, petrochemicals, fertilizers, caustic soda, car manufacture, parts, pharmaceuticals, home appliances, electronics, telecommunications, energy, power, textiles, construction, cement and other construction materials, food processing (particularly sugar refining and vegetable oil production), ferrous and non-ferrous metal fabrication, armaments",
+United Arab Emirates,2023,"AED, د.إ",,7.51,19202452024.0,1.62,26.0,,3.36,Petroleumpetrochemicalsfishingaluminumcementfertilizership repairconstructionmaterialshandicraftstextiles,
+Qatar,2023,"QAR, QR",3.0,4.1,8202442024.0,3.1,,,0.6,Liquefied natural gascrude oilammoniafertilizerpetrochemicalsreinforcing steelcementship repair,
+Chile,2023,CLP,6.2,2.4,632024612024.0,3.045,44.4,,7.2,"copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products, transport equipment, cement, textiles",39.166202024
+Colombia,2023,COP,39.3,7.5,922024842024.0,11.7,51.7,1721622011.6,9.6,"textiles, food processing, oil, clothing and footwear, beverages, chemicals, cement; gold, coal, emeralds, shipbuilding, electronics industry, home appliance",
+Peru,2023,"PEN, S/",12.7,2.7,862024972024.0,1.9,40.2,,6.9,miningMineral and jewel processingsteelmetal fabricationpetroleumnatural gasfishingfish processingcementglasstextilesclothingfood processingbeersoft drinksrubbermachineryelectrical machinerychemicalsfurniture,
+New Zealand,2023,"NZD, NZ$",11.0,2.4,4.823120255540492e+19,2.2,33.9,,3.3,"Food processing, Agriculture, Forestry, Wool, Tourism, Financial Services",
+Norway,2023,,5.0,3.3,4202452025.0,3.3,24.7,,3.9,Petroleumnatural gasshippingfishingaquaculturefood processingshipbuildingpulp and papermetalschemicalstimberminingtextiles,
+Denmark,2023,"DKK, kr",4.0,2.5,92023102023.0,3.4,28.6,,2.5,"wind turbines, pharmaceuticals, medical equipment, shipbuilding and refurbishment, iron, steel, nonferrous metals, chemicals, food processing, machinery and transportation equipment, textiles and clothing, electronics, Lego, construction, furniture and other wood products",75.2520173
+Finland,2023,"EUR, €",15.8,2.1,152023232023.0,1.6,26.6,,9.2,"metals and metal products, electronics, machinery and scientific instruments, shipbuilding, pulp and paper, foodstuffs, chemicals, textiles, clothing[7]",
